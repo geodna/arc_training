@@ -5,3 +5,5 @@ Comments about the workflow I will do next
 4. modify it
 5. blablabla
 6. Check git diff
+
+Find out about collaborating across projects and users
