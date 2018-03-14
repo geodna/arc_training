@@ -4,3 +4,4 @@ Comments about the workflow I will do next
 3. check nano
 4. modify it
 5. blablabla
+6. Check git diff
