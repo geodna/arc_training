@@ -5,6 +5,7 @@ Comments about the workflow I will do next
 4. modify it
 5. blablabla
 6. Check git diff
-7. Does this work, Martin?
+7. Find out how to reattach a head
+8. Does this work, Martin?
 
 Find out about collaborating across projects and users
