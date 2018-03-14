@@ -1,1 +1,4 @@
 Comments about the workflow I will do next
+1. git add file
+2. git commit -m TheMessageIwant
+3. check nano again
